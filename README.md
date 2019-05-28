@@ -3,7 +3,7 @@ Comparing the performance of different image captioning models on benchmark data
 The models to be compared are:
 
 - Encoder-decoder
-- Compositional
+- Attention mechanism
 - Dense Captioning
 - Deep Multimodal Similarity Model
 - Reinforcement Learning
