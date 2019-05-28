@@ -9,15 +9,16 @@ The models to be compared are:
 - Reinforcement Learning
 
 The benchmark datasets comprise:
-1. Flicker8k
-2. Flicker30k
-3. MSCOCO
+- Flicker8k
+- Flicker30k
+- MSCOCO
 
 The metrics used for evaluation are:
 
 * BLEU 1-4
 * METEOR score
 * CIDEr score
+
 
 I have tabulated the performance of each:
 
@@ -28,7 +29,7 @@ I have tabulated the performance of each:
 | Flicker8k | DenseCap | | | | | | |
 | | DMSM | | | | | | |
 | | Reinforcement Learning | | | | | | |
-| | | | | | | | |
+|--+--+--+--+--+--+--+--|
 | | CNN-LSTM | | | | | | |
 | | CNN-LSTM with Attention | | | | | | |
 | Flicker30k | DenseCap | | | | | | |
