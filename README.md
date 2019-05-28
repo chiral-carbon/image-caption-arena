@@ -24,12 +24,12 @@ I have tabulated the performance of each:
 
 | Dataset | Model | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | METEOR | CIDEr |
 |:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-| | CNN-LSTM | 53.0076 | 28.6551 | 19.7607 | 9.4241 | | |
+| | CNN-LSTM | 0.530076 | 0.286551 | 0.197607 | 0.94241 | | |
 | | CNN-LSTM with Attention | | | | | | |
 | Flicker8k | DenseCap | | | | | | |
 | | DMSM | | | | | | |
 | | Reinforcement Learning | | | | | | |
-|--+--+--+--+--+--+--+--|
+| | | | | | | | |
 | | CNN-LSTM | | | | | | |
 | | CNN-LSTM with Attention | | | | | | |
 | Flicker30k | DenseCap | | | | | | |
