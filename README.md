@@ -23,18 +23,20 @@ I have tabulated the performance of each:
 
 | Dataset | Model | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | METEOR | CIDEr |
 |:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-| | CNN-LSTM |-----|-----|-----|-----|-----|-----|
-| | CNN-LSTM with Attention |-----|-----|-----|-----|-----|-----|
-| Flicker8k | DenseCap |-----|-----|-----|-----|-----|-----|
-| | DMSM |-----|-----|-----|-----|-----|-----|
-| | Reinforcement Learning |-----|-----|-----|-----|-----|-----|
-| | CNN-LSTM |-----|-----|-----|-----|-----|-----|
-| | CNN-LSTM with Attention |-----|-----|-----|-----|-----|-----|
-| Flicker30k | DenseCap |-----|-----|-----|-----|-----|-----|
-| | DMSM |-----|-----|-----|-----|-----|-----|
-| | Reinforcement Learning |-----|-----|-----|-----|-----|-----|
-| | CNN-LSTM |-----|-----|-----|-----|-----|-----|
-| | CNN-LSTM with Attention |-----|-----|-----|-----|-----|-----|
-| MSCOCO | DenseCap |-----|-----|-----|-----|-----|-----|
-| | DMSM |-----|-----|-----|-----|-----|-----|
-| | Reinforcement Learning |-----|-----|-----|-----|-----|-----|
+| | CNN-LSTM | 53.0076 | 28.6551 | 19.7607 | 9.4241 | | |
+| | CNN-LSTM with Attention | | | | | | |
+| Flicker8k | DenseCap | | | | | | |
+| | DMSM | | | | | | |
+| | Reinforcement Learning | | | | | | |
+| | | | | | | | |
+| | CNN-LSTM | | | | | | |
+| | CNN-LSTM with Attention | | | | | | |
+| Flicker30k | DenseCap | | | | | | |
+| | DMSM | | | | | | |
+| | Reinforcement Learning | | | | | | |
+| | | | | | | | |
+| | CNN-LSTM | | | | | | |
+| | CNN-LSTM with Attention | | | | | | |
+| MSCOCO | DenseCap | | | | | | |
+| | DMSM | | | | | | |
+| | Reinforcement Learning | | | | | | |
