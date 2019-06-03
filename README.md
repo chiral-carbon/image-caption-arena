@@ -16,8 +16,9 @@ The benchmark datasets comprise:
 The metrics used for evaluation are:
 
 * BLEU 1-4
-* METEOR score
-* CIDEr score
+* METEOR 
+* CIDEr 
+* ROUGE-L
 
 
 I have tabulated the performance of each:
