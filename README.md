@@ -25,13 +25,13 @@ I have tabulated the performance of each:
 
 | Dataset | Model | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | METEOR | CIDEr | ROUGE-L |
 |:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-| | CNN-LSTM | 0.530076 | 0.286551 | 0.197607 | 0.94241 | | | |
+| | [CNN-LSTM](https://www.kaggle.com/blackcanary/image-caption-flicker8k) | 0.530076 | 0.286551 | 0.197607 | 0.94241 | | | |
 | | CNN-LSTM with Attention | | | | | | | |
 | Flicker8k | DenseCap | | | | | | | |
 | | DMSM | | | | | | | |
 | | Reinforcement Learning | | | | | | | |
 | | | | | | | | | |
-| | CNN-LSTM | | | | | | | |
+| | [CNN-LSTM](https://www.kaggle.com/blackcanary/image-caption-flicker30k-w-o) | | | | | | | |
 | | CNN-LSTM with Attention | | | | | | | |
 | Flicker30k | DenseCap | | | | | | | |
 | | DMSM | | | | | | | |
