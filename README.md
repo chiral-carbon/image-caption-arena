@@ -23,7 +23,7 @@ The metrics used for evaluation are:
 
 I have tabulated the performance of each:
 
-| Dataset | Model | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | METEOR | CIDEr | ROUGE-L |
+| Dataset | Model | BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | METEOR | ROUGE-L | CIDEr |
 |:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
 | | [CNN-LSTM](https://www.kaggle.com/blackcanary/image-caption-flicker8k) | 0.530076 | 0.286551 | 0.197607 | 0.94241 | | | |
 | | CNN-LSTM with Attention | | | | | | | |
